@@ -1,8 +1,8 @@
 # Simple password generator
 
-Usage: ./GeneratePassword <mode>
+Usage: ./GeneratePassword "mode"
 
 Modes:
-	-l letters
-	-n numbers
-	-a letters, numbers, special characters
+-l letters
+-n numbers
+-a letters, numbers, special characters
