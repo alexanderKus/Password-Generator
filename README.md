@@ -1,6 +1,8 @@
 # Simple password generator
 
-Usage: ./GeneratePassword "mode"
+First you need to build the project ```make```
+
+Usage: ```./GeneratePassword "mode"```
 
 Modes:
 -l letters
